@@ -112,10 +112,10 @@ Execute the program
 </html>
 ```
 # OUPUT
-![OUTPUT](./slot21)
+![OUTPUT](./slot21.png)
 
 ### HTML VALIDATION
-![HTML VALIDATION](./valid)
+![HTML VALIDATION](./valid.png)
 
 # RESULT
 The program executed successfully
